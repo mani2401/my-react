@@ -1,0 +1,24 @@
+{
+    "employees": [
+        {
+            "id":123,
+            "name":"Subhash",
+            "location":"Hyderabad",
+            "technologies": {
+                "frontend" : "ReactJS",
+                "backend" : "NodeJS",
+                "database" : "NoSQL"
+            }
+        },
+        {
+            "id":123,
+            "name":"Subhash",
+            "location":"Hyderabad"
+        },
+        { 
+            "id":123,
+            "name":"Subhash",
+            "location":"Hyderabad"
+        }
+    ]
+}
